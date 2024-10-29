@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## 🔭 I’m currently working on ...[I’m currently working on Ancel's Performance Batch](https://github.com/anceltweaks/Ancels-Performance-Batch)
 ## 🌱 I’m currently learning ... [Electron](https://www.electronjs.org/)
 
 <!--
@@ -8,7 +9,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-## 🌱 I’m currently learning ... [Electron](https://www.electronjs.org/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
